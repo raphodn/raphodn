@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projets I contribute(d) to
+French full-stack web developer, coding in open source 99.9% of my time ♥️
+
+Python | Django | Vue.js | APIs | DevOps | MkDocs
+
+## Projects I contribute(d) to
 
 ### beta.gouv.fr
 
@@ -49,7 +53,7 @@ Here are some ideas to get you started:
 * [data-for-good-grenoble](https://github.com/data-for-good-grenoble) (not anymore)
 * [raphodn.github.io](https://github.com/raphodn/raphodn.github.io)
 
-## Projets I'm super interested in
+## Projects I'm super interested in
 
 * [lasuite.numerique.gouv.fr](https://github.com/suitenumerique)
 * [inventaire.io](https://codeberg.org/inventaire)
