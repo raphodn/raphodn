@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **raphodn/raphodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projets I contribute(d) to
+
+### beta.gouv.fr
+
+* [ma-cantine](https://github.com/betagouv/ma-cantine)
+* [le-marche](https://github.com/gip-inclusion/le-marche) (not anymore)
+* [aides-territoires](https://github.com/MTES-MCT/aides-territoires) (not anymore)
+* [Aidants_Connect](https://github.com/betagouv/Aidants_Connect) (not anymore)
+* [awesome-betagouv](https://github.com/raphodn/awesome-betagouv)
+
+### Open Food Facts
+
+* open-prices: [backend](https://github.com/openfoodfacts/open-prices) & [frontend](https://github.com/openfoodfacts/open-prices-frontend)
+* [openfoodfacts-python](https://github.com/openfoodfacts/openfoodfacts-python)
+* [openfoodfacts-taxonomy-explorer](https://github.com/raphodn/openfoodfacts-taxonomy-explorer)
+* [brand-images](https://github.com/openfoodfacts/brand-images)
+
+### OpenStreetMap
+
+* [name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+
+### Supermarchés participatifs
+
+* [elefan-grenoble](https://github.com/elefan-grenoble)
+* [interfoodcoop (carto)](https://github.com/interfoodcoop/supermarches_cooperatifs)
+
+### Quiz de l'Anthropocène
+
+* [backend](https://github.com/quiz-anthropocene/admin-backend)
+* [frontend](https://github.com/quiz-anthropocene/public-frontend)
+
+### Other
+
+* [data-for-good-grenoble](https://github.com/data-for-good-grenoble) (not anymore)
+* [raphodn.github.io](https://github.com/raphodn/raphodn.github.io)
+
+## Projets I'm super interested in
+
+* [lasuite.numerique.gouv.fr](https://github.com/suitenumerique)
+* [inventaire.io](https://codeberg.org/inventaire)
+* [comaps](https://codeberg.org/comaps)
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe)
