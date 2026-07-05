@@ -31,12 +31,13 @@ Python | Django | Vue.js | APIs | DevOps | MkDocs
 
 * open-prices: [backend](https://github.com/openfoodfacts/open-prices) & [frontend](https://github.com/openfoodfacts/open-prices-frontend)
 * [openfoodfacts-python](https://github.com/openfoodfacts/openfoodfacts-python)
-* [openfoodfacts-taxonomy-explorer](https://github.com/raphodn/openfoodfacts-taxonomy-explorer)
 * [brand-images](https://github.com/openfoodfacts/brand-images)
+* [openfoodfacts-taxonomy-explorer](https://github.com/raphodn/openfoodfacts-taxonomy-explorer)
 
 ### OpenStreetMap
 
 * [name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+* [open-air-events](https://github.com/raphodn/open-air-events)
 
 ### Supermarchés participatifs
 
@@ -53,9 +54,10 @@ Python | Django | Vue.js | APIs | DevOps | MkDocs
 * [data-for-good-grenoble](https://github.com/data-for-good-grenoble) (not anymore)
 * [raphodn.github.io](https://github.com/raphodn/raphodn.github.io)
 
-## Projects I'm super interested in
+## Projects I'm super curious about
 
 * [lasuite.numerique.gouv.fr](https://github.com/suitenumerique)
 * [inventaire.io](https://codeberg.org/inventaire)
 * [comaps](https://codeberg.org/comaps)
+* [OpenEventDatabase](https://forum.openstreetmap.fr/t/openeventdatabase-reboot/37649)
 * [NewPipe](https://github.com/TeamNewPipe/NewPipe)
